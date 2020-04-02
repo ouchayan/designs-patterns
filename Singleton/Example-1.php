@@ -5,6 +5,7 @@
 3) Une classe avec eun onstructeur privé ne peux être instancié à l'exterieur de la classe.
 4) singleton est un design pattern de la famille création qui assure la création d'une seule instance d'une classe.
 5) new self() et new static.
+6) Shared = true in symfony service = singleton.
 */
 class BdConnexion 
 {
